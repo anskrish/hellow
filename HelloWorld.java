@@ -1,6 +1,6 @@
 public class HelloWorld {
    public static void main(String[] args) {
-      // Prints "Hello, World" in the terminal krishna window.
+      // Prints "Hello, World" in the terminal krishna new window.
       System.out.println("Hello, World");
    }
 }
